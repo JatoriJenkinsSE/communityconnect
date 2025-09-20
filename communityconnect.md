@@ -1,7 +1,7 @@
 # communityconnect
 # CommunityConnect — Open-Source Community Volunteer Platform
 
-> Owner: @JatoriJenkinsSE
+> Owner: JatoriJenkinsSE
 >  repo: communityconnect
 
 A friendly, lightweight volunteer management app for community groups and nonprofits.
