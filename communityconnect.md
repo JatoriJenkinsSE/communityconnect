@@ -11,7 +11,7 @@ A friendly, lightweight volunteer management app for community groups and nonpro
 * Event & shift scheduling (create events, add time‑boxed shifts)
 * Volunteer sign‑up + check‑in / check‑out
 * Hours tracking & export (CSV)
-* Simple JWT auth (demo) with roles: `admin`, `volunteer`
+* Simple JWT auth (demo) with roles: admin, volunteer
 * Rust API (Axum + sqlx + SQLite) + React frontend (Vite + TS)
 * Docker Compose for local dev; GitHub Actions CI; optional GHCR images
 
@@ -67,11 +67,11 @@ members = [
 resolver = "2"
 
 [workspace.package]
-version = "0.1.0"
-edition = "2021"
-authors = ["JatoriJenkinsSE"]
-repository = "https://github.com/JatoriJenkinsSE/communityconnect"
-license = "MIT OR Apache-2.0"
+version =  0.1.0
+edition =  2021
+author = JatoriJenkinsSE
+repository = https://github.com/JatoriJenkinsSE/communityconnect
+license = MIT OR Apache-2.0
 
 [workspace.dependencies]
 axum = "0.7"
